@@ -1,6 +1,6 @@
 {
 "plugins": [
     "emphasize",
-"splitter"
+    "splitter"
 ]
 }
